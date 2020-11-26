@@ -4,7 +4,7 @@ Find songs, artists and lyrics using the [lyrics.ovh](https://lyrics.ovh) API
 ## Project Specifications
 
 - Displays UI with song/artist as input
-- Fetchs songs/artists and lyrics
+- Fetches songs/artists and lyrics
 - Added pagination
 - Added get lyrics functionality
 
